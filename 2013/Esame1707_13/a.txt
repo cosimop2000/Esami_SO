@@ -1,0 +1,7 @@
+ciao controllo
+i caratteri passsati
+dallo standard input
+1
+22
+333
+zzzz
